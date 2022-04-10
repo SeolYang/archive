@@ -1,0 +1,26 @@
+# APIs/Frameworks/Libraries/Open Source Projects
+- [Unreal Engine](https://github.com/EpicGames/UnrealEngine) : Unreal Engine is the world's most open and advanced real-time 3D creation tool for photoreal visuals and immersive experiences.
+- [imgui](https://github.com/ocornut/imgui) : Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) : Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+- [imgui-node-editor](https://github.com/thedmd/imgui-node-editor) : Node Editor using ImGui
+- [json](https://github.com/nlohmann/json) : JSON for Modern C++
+- [Optick](https://github.com/bombomby/optick) : C++ Profiler For Games
+- [assimp](https://github.com/assimp/assimp) : The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
+- [bgfx](https://github.com/bkaradzic/bgfx) : Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+- [bitsery](https://github.com/fraillt/bitsery) : Your binary serialization library
+- [bitsery korean tutorial](https://j2doll.tistory.com/657)
+- [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) : IceCream-Cpp is a little (single header) library to help with the print debugging on C++11 and forward.
+- [Choreograph](https://github.com/sansumbrella/Choreograph) : A simple, modern C++ animation and timing library.
+- [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) : Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20
+- [simplefilewatcher](https://github.com/jameswynn/simplefilewatcher) : FileWatcher is a C++ wrapper for OS file monitoring systems. Currently it uses Win32 ReadDirectoryChangesW for monitoring changes in Windows, and inotify in linux. OSX is supported via kqueue and directory scans.
+- [stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++
+- [Google filament](https://github.com/google/filament) : Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+- [pbrt](https://github.com/mmp/pbrt-v4) : Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
+- [BRDF Viewer](https://github.com/wdas/brdf) : Disney BRDF Viewer
+- [glm](https://github.com/g-truc/glm) : OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
+- [volk](https://github.com/zeux/volk) : volk is a meta-loader for Vulkan. It allows you to dynamically load entrypoints required to use Vulkan without linking to vulkan-1.dll or statically linking Vulkan loader. Additionally, volk simplifies the use of Vulkan extensions by automatically loading all associated entrypoints. Finally, volk enables loading Vulkan entrypoints directly from the driver which can increase performance by skipping loader dispatch overhead.
+- [Microsoft's DirectX Graphics Samples](https://github.com/microsoft/DirectX-Graphics-Samples) : This repo contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
+- [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) : This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
+- [nem0/LumixEngine](https://github.com/nem0/LumixEngine) : 3D C++ Game Engine - yet another open source game engine
+- [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) : Wicked Engine is an open-source C++ engine focusing on modern rendering techniques and performance. Use this as a framework for your graphics projects, or learning. Some programming skills are required for the best experience, but some simple tools like an Editor are also included. It is free to be used for anything good.
+- [Pavlo Muratov/PathFinder](https://github.com/man-in-black382/PathFinder) : An attempt to build a modern renderer using modern graphic APIs.
