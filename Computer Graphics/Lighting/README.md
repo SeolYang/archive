@@ -5,6 +5,8 @@
 - [Voxel-based Global Illumination by TURANSZKIJ](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
 - [Pearlabyss Lab](https://www.pearlabyss.com/ko-KR/Company/About/Lab)
 - [Practical dynamic lighting for large-scale game environments by Pearlabyss](https://dl.acm.org/doi/10.1145/3306307.3328189)
+- [Slope Space in BRDF Theory](https://www.reedbeta.com/blog/slope-space-in-brdf-theory/)
+- [Unreal Art Optimization](https://unrealartoptimization.github.io/book/)
 ## Papers
 - [Precomputed Radiance Transfer for Real-Time Rendering
 in Dynamic, Low-Frequency Lighting Environments ](https://jankautz.com/publications/prtSIG02.pdf)
@@ -15,3 +17,5 @@ in Dynamic, Low-Frequency Lighting Environments ](https://jankautz.com/publicati
 - [Linear-Light Shading with Linearly Transformed Cosines](https://hal.archives-ouvertes.fr/hal-02155101/document)
 - [A Scalable and Production Ready Sky and Atmosphere Rendering Technique](https://sebh.github.io/publications/egsr2020.pdf)
 - [Spherical Harmonic Lighting](http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf)
+## Open Source Projects
+- [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)
