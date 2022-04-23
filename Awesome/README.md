@@ -5,4 +5,4 @@
     - [MJP's Blog](https://therealmjp.github.io/)
     - [Riccardo Loggini's projects website](https://logins.github.io/)
     - [Matt Hoffman's blog](https://medium.com/@lordned)
-    
+    - [SCAHP(Choi Jae Ho)'s blog](https://scahp.tistory.com/)
