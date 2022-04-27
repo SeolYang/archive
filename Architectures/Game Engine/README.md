@@ -1,6 +1,7 @@
 # Game Engine Architectures
-## Courses
+## Courses & Sessions
 - [Game Engine Architecture : Bill Clark(CodeLabs Tech Talk 2020)](https://youtu.be/mUeNqLcx4eI)
+- [Overwatch Gameplay Architecture and Netcode](https://youtu.be/zrIY0eIyqmI)
 ## Articles
 ## Papers
 ## Books
