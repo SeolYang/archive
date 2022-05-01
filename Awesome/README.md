@@ -8,3 +8,6 @@
     - [SCAHP(Choi Jae Ho)'s blog](https://scahp.tistory.com/)
     - [전파거북이](https://ghebook.blogspot.com/) : 수학/물리학 개념, 증명, 이론에 대해 깔끔하게 증명 및 정리해주고 설명해주십니다.
     - [Wolfgang Engel's blog](https://diaryofagraphicsprogrammer.blogspot.com/)
+    - [stororokw's youtube channel](https://www.youtube.com/channel/UCwvfMyEFZtL8L2u9-Rp9e8Q) : It give me a lot of inspirations.
+    - [Pavlo Muratov](https://github.com/man-in-black382) : One of my role model.
+        - [Want to share a renderer I made to educate myself on computer graphics](https://www.reddit.com/r/opengl/comments/andaa1/want_to_share_a_renderer_i_made_to_educate_myself/) : Also his article give me a lot of inspirations, hopes and courge.
