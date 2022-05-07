@@ -12,3 +12,4 @@
     - [Pavlo Muratov](https://github.com/man-in-black382) : One of my role model.
         - [Want to share a renderer I made to educate myself on computer graphics](https://www.reddit.com/r/opengl/comments/andaa1/want_to_share_a_renderer_i_made_to_educate_myself/) : Also his article give me a lot of inspirations, hopes and courge.
     - [Ke-Sen Huang's Home Page](https://kesen.realtimerendering.com/) : Ke-Sen Huang maintain SIGGRAPH, SIGGRAPH Asia, Eurographics, I3D, EGSR, SCA, SGP, HPG's papers and courses in his homepage.
+    - [Sébastien Hillaire's website](https://sebh.github.io/)
